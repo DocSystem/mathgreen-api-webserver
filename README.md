@@ -1,4 +1,4 @@
-# Mathgreen API
+# Mathgreen API Web Server
 An API for my NSI teacher's website
 
 ## Run API
@@ -9,6 +9,8 @@ An API for my NSI teacher's website
 * Type ``npm start`` to run local web server on port 80
 
 ## API Routes
+
+The API will return json data for the following routes
 
 | URI        | Page      |
 |------------|-----------|
