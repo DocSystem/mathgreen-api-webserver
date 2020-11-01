@@ -1,14 +1,24 @@
 {
-  "name": "mathgreen-api",
+  "name": "mathgreen-api-webserver",
   "version": "1.0.0",
   "description": "Mathgreen API",
   "main": "index.js",
   "scripts": {
     "start": "node ."
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DocSystem/mathgreen-api-webserver.git"
+  },
+  "keywords": [
+    "mathgreen"
+  ],
   "author": "DocSystem",
   "license": "ISC",
-  "repository": "https://github.com/DocSystem/mathgreen-api-webserver/",
+  "bugs": {
+    "url": "https://github.com/DocSystem/mathgreen-api-webserver/issues"
+  },
+  "homepage": "https://github.com/DocSystem/mathgreen-api-webserver#readme",
   "dependencies": {
     "cheerio": "^1.0.0-rc.3",
     "express": "^4.17.1"
